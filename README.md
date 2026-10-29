@@ -22,7 +22,7 @@ flowchart TD
 
 ## Capability log
 
-The agent grows as each concept is learned in [ai-engineering-labs](../ai-engineering-labs).
+The agent grows as each concept is learned in [ai-engineering-labs](https://github.com/megharm/ai-engineering-labs).
 
 | Capability | Learned in lab | Status |
 |------------|----------------|--------|
