@@ -1,0 +1,5 @@
+[
+  {"id": "ALM-0001", "device": "ROADM-ATL-01", "port": "1-3-L1", "type": "LOW_RX_POWER", "severity": "major", "rx_power_dbm": -24.8, "threshold_dbm": -22.0, "raised_at": "2026-10-28T03:12:44Z"},
+  {"id": "ALM-0002", "device": "ROADM-ATL-01", "port": "1-3-L1", "type": "LOS", "severity": "critical", "raised_at": "2026-10-28T03:13:05Z"},
+  {"id": "ALM-0003", "device": "AMP-CLT-04", "port": "1-1-OUT", "type": "AMP_GAIN_DEGRADED", "severity": "minor", "raised_at": "2026-10-28T03:10:19Z"}
+]
